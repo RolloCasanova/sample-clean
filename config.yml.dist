@@ -1,0 +1,13 @@
+server:
+  host: ""
+  port: 0
+  write_timeout: 0
+  read_timeout: 0
+  read_header_timeout: 0
+
+postgresql:
+  name: ""
+  user: ""
+  password: ""
+  host: ""
+  port: 0
